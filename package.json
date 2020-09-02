@@ -1,0 +1,13 @@
+{
+  "name": "t-relaxer-app",
+  "version": "1.0.0",
+  "description": "A relaxing breathing app with a visual director to tell you when to breathe in, hold and breathe out",
+  "main": "script.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "dependencies": {
+    "serve": "^11.3.2"
+  },
+  "author": "M Toufiq ELAHI"
+}
